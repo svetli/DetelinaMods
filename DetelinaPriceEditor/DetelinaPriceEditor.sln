@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetelinaPriceEditor", "DetelinaPriceEditor\DetelinaPriceEditor.csproj", "{FF226418-BC6C-436A-A7B9-5A3C6D4889A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetelinaChangePrice", "DetelinaChangePrice\DetelinaChangePrice.csproj", "{87B092B7-E6BD-410F-B057-1164B0771C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF226418-BC6C-436A-A7B9-5A3C6D4889A1}.Debug|x86.ActiveCfg = Debug|x86
+		{FF226418-BC6C-436A-A7B9-5A3C6D4889A1}.Debug|x86.Build.0 = Debug|x86
+		{FF226418-BC6C-436A-A7B9-5A3C6D4889A1}.Release|x86.ActiveCfg = Release|x86
+		{FF226418-BC6C-436A-A7B9-5A3C6D4889A1}.Release|x86.Build.0 = Release|x86
+		{87B092B7-E6BD-410F-B057-1164B0771C93}.Debug|x86.ActiveCfg = Debug|x86
+		{87B092B7-E6BD-410F-B057-1164B0771C93}.Debug|x86.Build.0 = Debug|x86
+		{87B092B7-E6BD-410F-B057-1164B0771C93}.Release|x86.ActiveCfg = Release|x86
+		{87B092B7-E6BD-410F-B057-1164B0771C93}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
